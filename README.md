@@ -1,4 +1,6 @@
-# BUDGET APP
+# Budget App
+
+No meaningful functionality yet
 
 
 
